@@ -3,7 +3,7 @@
 </p>
 
 # Netherite
-A simple Horion-styled injector that only has two buttons, one for injection and the other for exiting the application.
+A simple looking Horion-styled injector that only has two buttons, one for injection and the other for exiting, and a slide-in animation.
 
 ## Packages Used
 * [Guna](https://gunaui.com/)
