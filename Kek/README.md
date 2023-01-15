@@ -13,5 +13,5 @@ Another fairly simple injector, this template includes a working Discord RPC whi
 ## Credits
 * Created by Founder
 * Icon created by a Kek member (forgot who)
-* Kek Client created by Xello
+* Kek Client created by [Xello](https://github.com/Xello12121)
 * [EchoHackCMD](https://github.com/EchoHackCmd) for the injection method
