@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/8M7ntjF.png">
 </p>
 
-# Netherite
+# Kek
 Another fairly simple injector, this template includes a working Discord RPC which starts when the app loads.
 
 ## Packages Used
