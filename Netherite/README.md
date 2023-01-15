@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/LkpSJm6.png">
+</p>
+
 # Netherite
 A simple Horion-styled injector that only has two buttons, one for injection and the other for exiting the application.
 
