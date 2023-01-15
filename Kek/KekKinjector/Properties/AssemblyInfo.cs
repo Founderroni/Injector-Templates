@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("KekKinjector")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Kek Injector Template")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Razer")]
+[assembly: AssemblyCompany("Founder")]
 [assembly: AssemblyProduct("KekKinjector")]
-[assembly: AssemblyCopyright("Copyright © Razer 2022")]
+[assembly: AssemblyCopyright("Copyright © Founder 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

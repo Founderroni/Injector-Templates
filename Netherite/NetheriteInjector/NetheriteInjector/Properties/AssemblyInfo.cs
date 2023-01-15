@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("NetheriteInjector")]
-[assembly: AssemblyDescription("Unofficial injector for netherite")]
+[assembly: AssemblyDescription("Netherite Injector Template")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Founder")]
 [assembly: AssemblyProduct("NetheriteInjector")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("Founder")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
