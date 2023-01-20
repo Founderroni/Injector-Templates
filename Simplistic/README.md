@@ -5,6 +5,10 @@
 # Simplistic
 A super simple Injector that allows the user to inject any dll that they specify.
 
+## Features
+* Custom DLL Injection
+* DLL Path Saving (Will remember path even on app restart)
+
 ## Packages Used
 * [Guna](https://gunaui.com/)
 * [Costura.Fody](https://github.com/Fody/Costura)

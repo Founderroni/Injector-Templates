@@ -5,6 +5,9 @@
 # Netherite
 A simple looking Horion-styled injector that only has two buttons, one for injection and the other for exiting, and a slide-in animation.
 
+## Features
+* Animations
+
 ## Packages Used
 * [Guna](https://gunaui.com/)
 * [Costura.Fody](https://github.com/Fody/Costura)

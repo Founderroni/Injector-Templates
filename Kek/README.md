@@ -5,6 +5,10 @@
 # Kek
 Another fairly simple injector, this template includes a working Discord RPC which starts when the app loads.
 
+## Features
+* Discord RPC
+* DLL Injection
+
 ## Packages Used
 * [Guna](https://gunaui.com/)
 * [Costura.Fody](https://github.com/Fody/Costura)
